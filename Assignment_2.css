@@ -1,0 +1,68 @@
+body
+{
+	background-color: #4b00ff;
+	color: white;
+	font-family: Arial;
+	margin: 15px 40px;
+	font-size: 25px;
+
+}
+
+.section-1
+{
+	display: flex;
+	dlext direction: row;
+	align-items: center;
+}
+
+.headline-1
+{
+	font-size: 60px;
+
+}
+
+.headline-2
+{
+	font-size: 65px;
+	font-weight: bold;
+	margin-top: -20px;
+}
+
+.headline-3
+{
+	font-size: 40px;
+	font-weight: bold;
+}
+		
+button
+{
+	color: white;
+	background-image: linear-gradient(to right, #ebc034 , #cc6c12);
+	font-weight: bold;
+	padding: 20px 65px;
+	border: 0px;
+	border-radius: 40px;
+}
+input[type='button']
+{
+	color: white;
+	background-image: linear-gradient(to right, #ebc034 , #cc6c12);
+	font-weight: bold;
+	padding: 13px 30px;
+	border: 0px;
+	border-radius: 20px;
+}
+a:visited
+{
+	color: white;
+}
+
+a:link
+{
+	 text-decoration: none;
+}
+
+a:hover
+{
+	color: #c7c7c7;
+}
